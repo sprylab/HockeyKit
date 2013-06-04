@@ -24,7 +24,7 @@
 ##  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 ##  THE SOFTWARE.
 
-date_default_timezone_set('UTC');
+#date_default_timezone_set('UTC');
 
 require('plist.inc');
 require_once('config.inc');
